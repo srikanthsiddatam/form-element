@@ -35,7 +35,7 @@ const handleSubmit = (e) => {
   }
   else{
   console.log("email",email)
-  console.log("password",pwd)
+  // console.log("password",pwd)
 
   // reset field
 
